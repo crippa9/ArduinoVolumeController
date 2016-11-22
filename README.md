@@ -23,3 +23,6 @@ The volume and sound source is displayed through an Adafruit Neopixel ring with 
 
 ## How does it work?
 The volume control itself works "out of the box", and to change sound source as well as display volume and current sound source requires the WPF program in the repository. The communication between the PC and Arduino is handled through serial communication.
+
+The desktop program monitors changes in volume and sound source, and sends new states to the Arduino when changes happen.
+The Arduino program sends volume changes as presses of a media volume button on a keyboard, while toggling through sound sources is done through the serial port.
