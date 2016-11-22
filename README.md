@@ -5,6 +5,7 @@ Arduino based volume controller and sound source switcher
 A custom made volume controller and sound source switcher, which is built using a Sparkfun Pro Micro, a clickable rotary encoder as well as an Adafruit Neopixel ring. 
 
 Turning the knob changes volume on the connected computer (which emulates a keyboard media key press, and therefore works without the extra software), and clicking it will toggle between the sound sources. In my case, I toggle between my headphones which are connected through 3.5mm speaker jack, and my receiver, which is connected through HDMI.
+
 ![alt text](/image1.jpg "") 
 ![alt text](/image2.jpg "") 
 ![alt text](/image3.jpg "") 
