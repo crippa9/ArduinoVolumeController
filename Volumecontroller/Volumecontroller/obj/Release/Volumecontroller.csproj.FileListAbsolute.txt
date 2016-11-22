@@ -1,0 +1,44 @@
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.exe.config
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.exe
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.pdb
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\InputSimulator.dll
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\InputSimulator.pdb
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\InputSimulator.xml
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\MainWindow.g.cs
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\App.g.cs
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\GeneratedInternalTypeHelper.g.cs
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller_MarkupCompile.cache
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller_MarkupCompile.lref
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\MainWindow.baml
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.g.resources
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.Properties.Resources.resources
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.csproj.GenerateResource.Cache
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.exe
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.pdb
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.exe.manifest
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.application
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.csprojResolveAssemblyReference.cache
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.exe.manifest
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.application
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.exe.config
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.exe.manifest
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.application
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.exe
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Release\Volumecontroller.pdb
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Release\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Release\AudioSwitcher.AudioApi.dll
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\MainWindow.g.cs
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\App.g.cs
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller_MarkupCompile.cache
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller_MarkupCompile.lref
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\MainWindow.baml
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.g.resources
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.Properties.Resources.resources
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.csproj.GenerateResource.Cache
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.exe.manifest
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.application
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.exe
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.pdb
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Release\Volumecontroller.csprojResolveAssemblyReference.cache

@@ -1,0 +1,40 @@
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Debug\Volumecontroller.exe.config
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.csprojResolveAssemblyReference.cache
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\MainWindow.g.cs
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\App.g.cs
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller_MarkupCompile.cache
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller_MarkupCompile.lref
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Debug\Volumecontroller.exe
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Debug\Volumecontroller.pdb
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Debug\InputSimulator.dll
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Debug\InputSimulator.pdb
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\bin\Debug\InputSimulator.xml
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\MainWindow.baml
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.g.resources
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.Properties.Resources.resources
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.csproj.GenerateResource.Cache
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.exe
+c:\users\tapio\documents\visual studio 2015\Projects\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.pdb
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Debug\Volumecontroller.exe.config
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Debug\Volumecontroller.exe.manifest
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Debug\Volumecontroller.application
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Debug\Volumecontroller.exe
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Debug\Volumecontroller.pdb
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\MainWindow.g.cs
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\App.g.cs
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller_MarkupCompile.cache
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller_MarkupCompile.lref
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\MainWindow.baml
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.g.resources
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.Properties.Resources.resources
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.csproj.GenerateResource.Cache
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.exe.manifest
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.application
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.exe
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.pdb
+C:\Users\Christoffer\Desktop\Volumecontroller\Volumecontroller\obj\Debug\Volumecontroller.csprojResolveAssemblyReference.cache
